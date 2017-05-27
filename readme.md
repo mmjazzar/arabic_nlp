@@ -1,7 +1,8 @@
-Arabic NLP Project
-
+Shiny Arabic NLP Project
 
 Arabic positive and negative words for sentiment analysis.
+- Comparing word usage.
+- Comparing word frequency.
 
 
 
