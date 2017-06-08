@@ -1,4 +1,5 @@
-Shiny Arabic NLP Project
+This is my shiny dashboard for analayzing Arabic Tweets.
+
 
 Arabic positive and negative words for sentiment analysis.
 - Comparing word usage.
